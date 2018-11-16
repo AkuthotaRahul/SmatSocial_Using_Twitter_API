@@ -4,7 +4,7 @@
 <title>HashTag Search</title>
 </head>
 <form method="post">
-	"Donot include # Symbol" Only type the word:
+	"Do not include # Symbol" Only type the word:
 	<input type="text" name="Tweet" placeholder="search Words"/>
     <input type="submit" name="test" value="Search" /><br/>	
 </form>
